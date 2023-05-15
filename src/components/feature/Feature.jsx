@@ -6,7 +6,7 @@ const Feature = () => {
     <div>
       Feature
     </div>
-  )
-}
+  );
+};
 
-export default Feature
+export default Feature;

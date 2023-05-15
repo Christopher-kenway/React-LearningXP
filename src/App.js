@@ -10,7 +10,7 @@ const App = () => {
         <Header />
      </div>
      <Brand />
-     <whatGPT3 />
+     <WhatGPT3 />
      <Feature />
      <Possibility />
      <Cta />
