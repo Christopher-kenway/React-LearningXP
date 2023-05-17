@@ -1,12 +1,10 @@
 .gpt3__whatgpt3 {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
+
   padding: 2rem;
-  width: 100%;
+  justify-content: center;
   max-width: 1170px;
-  height: 695px;
   margin: 0 auto;
   background: var(--color-footer);
 
@@ -86,7 +84,7 @@
 }
 
 /* Customizing feature component as per needs */
-.gpt3__whatgpt3-container .gpt3__features-container_feature-text {
+.gpt3__whatgpt3-container .gpt3__features-container__feature-text {
   margin-top: 0.5rem;
 }
 
